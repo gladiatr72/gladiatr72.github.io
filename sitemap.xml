@@ -11,6 +11,14 @@
 
     
     <url>
+     <loc>/Kubernetes DNS/</loc>
+     <lastmod>2017-02-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/SRV Records/</loc>
      <lastmod>2017-02-03</lastmod>
      <changefreq>daily</changefreq>
